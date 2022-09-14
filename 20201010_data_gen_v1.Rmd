@@ -43,8 +43,6 @@ Covariates are randomly generated (or given by the analyst), and then "true" coe
   + 10 UF data are also relatively uncommon
 * Continuous percentage (e.g., VAF)
   + Roughly 1000 variables, maybe 500
-* Continuous larger numbers with log-norm distribution (e.g., TPM; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1240081/) 
-  + Ask Brian C
 * Continuous larger numbers with norm distribution (e.g., WBC)
   + 100 variables
 
@@ -91,7 +89,7 @@ Each have the 5 levels of informative data
 * Randomly filtered
 * Uninformative removal
 
-With this list of combinations, I'm simulating 1050 different data sets. Rather, I'm combining some smaller amount of simulated data into 1050 different combinations.
+With this list of combinations, I'd be simulating 1050 different data sets. Or rather, I'm combining some smaller amount of simulated data into 1050 different combinations. Still, this seems a little excessive, and initial assessments may lead to a smaller set.
 
 
 # Methods
